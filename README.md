@@ -12,7 +12,7 @@ Artificial Intelligence (AI) is a branch of computer science that allows machine
 **Why AI matters:**
 AI is changing the way we live and work. It can make everyday tasks easier, improve healthcare, enhance business efficiency, and create new opportunities for innovation.
 
-**The role of an AI engineer:**
-AI engineers design, build, and maintain AI systems. They work with data, create models that can predict outcomes, and develop applications that solve real-world problems. Their goal is to make machines smarter and more helpful, turning AI concepts into practical solutions that benefit society.
+**The role of an AI enginear:**
+AI engineers design, build, and maintain AI systems. They work with data, create models that can predict outcomes, and develop applications that solve real-world problems. Their goal is to make machnes smarter and more helpful, turning AI concepts into practical solutions that benefit society.
 
-AI is not just about technology—it’s about creating tools that improve lives.
+AI is not just about technolog y it’s about creating tools that improve lives.
