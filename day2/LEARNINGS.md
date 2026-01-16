@@ -1,8 +1,6 @@
-# Day 2 – Learnings: Python Variables & Data Types
+# Learnings: Python Variables & Data Types
 
 Today was about slowing down and really understanding how Python works at the most basic level. Instead of just writing code that “works”, the focus was on *why* it works and how small decisions (like naming a variable) affect code quality in the long run.
-
----
 
 ## What I Learned
 
@@ -26,26 +24,14 @@ Seeing a variable change from an integer to a string helped me understand Python
 
 Using `try-except` blocks showed me how to handle user mistakes gracefully instead of letting the program crash. This felt like a step closer to writing real-world, production-ready code.
 
----
-
 ## Memory Management Insights
 
 I learned that Python stores values as objects in memory and variables only point to those objects. Immutable data types create new objects when modified, while mutable types can change in place. Python’s automatic garbage collection makes development easier, but understanding what happens behind the scenes is still important.
-
----
 
 ## Soft Skill Reflection
 
 Today reinforced the idea that clean code is a form of communication. Writing code that others (and my future self) can easily understand is just as important as solving the problem itself.
 
----
-
 ## Key Takeaway
 
 Small fundamentals like data types and variable naming have a big impact on code quality. Mastering these basics early will make advanced topics in AI and NLP much easier to handle.
-
----
-
-## Next Step
-
-Apply these principles consistently while learning control flow, data structures, and eventually integrating them into NLP and LangChain projects.
